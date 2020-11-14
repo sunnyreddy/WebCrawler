@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26ddec8f-6b23-4c92-b56f-becafef517b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../assignment-functional-composition/src/main/scala/edu/neu/coe/csye7200/asstfc/Function.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-functional-composition/src/main/scala/edu/neu/coe/csye7200/asstfc/Function.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-helloworld/src/main/scala/edu/neu/coe/csye7200/assthw/Ingest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-helloworld/src/main/scala/edu/neu/coe/csye7200/assthw/Ingest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-lazy/project/plugins.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-lazy/project/plugins.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-lazy/src/main/scala/edu/neu/coe/csye7200/asstll/MyLazyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-lazy/src/main/scala/edu/neu/coe/csye7200/asstll/MyLazyList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-movie-database/src/main/scala/edu/neu/coe/csye7200/asstmd/Movie.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-movie-database/src/main/scala/edu/neu/coe/csye7200/asstmd/Movie.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-movie-database/src/test/scala/edu/neu/coe/csye7200/asstmd/IngestSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-movie-database/src/test/scala/edu/neu/coe/csye7200/asstmd/IngestSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment-random-state/src/main/scala/edu/neu/coe/csye7200/asstrs/RandomState.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment-random-state/src/main/scala/edu/neu/coe/csye7200/asstrs/RandomState.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/MonadOps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/MonadOps.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-99/project/plugins.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-99/project/plugins.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-99/src/main/scala/edu/neu/coe/csye7200/Arithmetic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-99/src/main/scala/edu/neu/coe/csye7200/Arithmetic.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-99/src/main/scala/edu/neu/coe/csye7200/Lists.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-99/src/main/scala/edu/neu/coe/csye7200/Lists.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kI05U4CePuoUxBgQUAKfj5W91j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="ScalaTest.WebCrawlerSpec">
+    <configuration name="MonadOpsSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="WebCrawler" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="shortenClasspath" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstwc.MonadOpsSpec" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\medas\Downloads\3_SEM_NEU\INFO7200\CSYE7200\assignment-web-crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebCrawlerSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="WebCrawler" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="shortenClasspath" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstwc.WebCrawlerSpec" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\medas\Downloads\3_SEM_NEU\INFO7200\CSYE7200\assignment-web-crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="shortenClasspath" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.WebCrawlerSpec" />
+        <item itemvalue="ScalaTest.MonadOpsSpec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26ddec8f-6b23-4c92-b56f-becafef517b0" name="Default Changelist" comment="" />
+      <created>1605372614760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605372614760</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1605392736490">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1605392736490" />
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom" timestamp="1605394173432">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605394173432" />
+    <state width="1237" height="200" key="GridCell.Tab.0.center" timestamp="1605394173432">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="200" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605394173432" />
+    <state width="1237" height="200" key="GridCell.Tab.0.left" timestamp="1605394173431">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="200" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605394173431" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right" timestamp="1605394173432">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="200" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605394173432" />
+  </component>
+</project>
